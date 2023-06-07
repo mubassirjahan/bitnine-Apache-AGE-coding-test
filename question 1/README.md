@@ -2,7 +2,7 @@
 
 ### [ Answer to Question No. 1 ]
 
-Node is defined as follows :
+##Node is defined as follows :
 typedef struct Node
 {
 TypeTag type;
@@ -18,9 +18,12 @@ typedef enum TypeTag {
 
     ## How to compile and run the programme
     The programme was written in C language and developed using CodeBlocks IDE, source code can be found in the question1.c file.
-    run a compiled version main.exe within the directory from the command line with the command "./question1.exe"
+    run a compiled version queston1.exe within the directory from the command line with the command "./question1.exe"
     or Simply open the source code using a CodeBlock IDE and click on the Build and run button to execute and output results of the programme
 
     ## Minimum System Requirements
-        -Operating System Windows 11
-        -Codeblocks IDE
+        -Operating System Windows 10 or 11 (Recommened)
+        -Codeblocks IDE (version 20.03)
+
+
+
