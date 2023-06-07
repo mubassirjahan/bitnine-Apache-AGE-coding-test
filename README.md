@@ -48,7 +48,11 @@ Assume that n will be less than or equal to the maximum integer value and non-ne
 write the function(s).
 
 ```
+##Question 1 and 2 (Backend)
+```
+Developing Apache AGE requires a lot of logical thinking that backend development often requires. All the instructions are given inside  the folders.
 
+```
 
 ## Troubleshooting
 If you encounter any issues compiling or running the program, please refer to the error messages generated in the IDE terminal for assistance. Make sure that all required dependencies are installed and that the commands are being properly formatted from IDE.     
