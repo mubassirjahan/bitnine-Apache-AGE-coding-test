@@ -7,7 +7,30 @@ Below is a quick documentation and thought process explaining the entire program
 ## How to compile and run the programme
     The programme was written in C language and developed using CodeBlocks IDE, source code can be found in the question2.c file.
     or
+    Simply open the source code using a CodeBlock IDE and click on the Build and run button to execute and output results of the programme.
 
-    Simply open the source code using a CodeBlock IDE and click on the Build and run button to execute and output results of the programme
+    ## Minimum System Requirements
+    -Operating System: Windows 10 or 11 (Recommened)
+    -Codeblocks IDE (version 20.03)
+
+    ## Steps
+    - Install codeblocks IDE
+    - open the file question2.c
+    - click build and run (A console window will open and it'll print the output)
+    - Done
+
+##Introduction
+    This program implements the piecewise recurrence using looping, recursion and dynamic programming.
 
     
+## Troubleshooting
+
+If you encounter any issues compiling or running the program, please refer to the error messages generated in the IDE terminal for assistance. Make sure that all required dependencies are installed and that the commands are being properly formatted from IDE.     
+
+For further assistance feel free to email : mubassir.jahan@outlook.com
+
+## Contributors
+
+- Mubassir Jahan (https://github.com/mubassirjahan)
+  copyright @2023
+
