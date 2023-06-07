@@ -22,7 +22,11 @@ Below is a quick documentation and thought process explaining the entire program
 ##Introduction
     -This program implements the piecewise recurrence using looping, recursion and dynamic programming.
 
-    
+
+## Differences (advantages, disadvantages)
+The dynamic programming approach is more efficient than the recursive approach as it uses an array to store the values of previously calculated F(n)
+which reduces the number of function calls. However, it still takes up more memory and takes longer to run than the other solutions
+
 ## Troubleshooting
 
 If you encounter any issues compiling or running the program, please refer to the error messages generated in the IDE terminal for assistance. Make sure that all required dependencies are installed and that the commands are being properly formatted from IDE.     
