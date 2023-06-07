@@ -21,7 +21,7 @@ typedef enum TypeTag {
     run a compiled version queston1.exe within the directory from the command line with the command "./question1.exe"
     or 
     
-    Simply open the source code using a CodeBlock IDE and click on the Build and run button to execute and output results of the programme
+    Simply open the source code file question1.c using a CodeBlock IDE and click on the Build and run button to execute the output results of the programme
 
     ## Minimum System Requirements
         -Operating System Windows 10 or 11 (Recommened)

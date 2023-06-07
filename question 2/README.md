@@ -7,7 +7,7 @@ Below is a quick documentation and thought process explaining the entire program
 ## How to compile and run the programme
     The programme was written in C language and developed using CodeBlocks IDE, source code can be found in the question2.c file.
     or
-    Simply open the source code using a CodeBlock IDE and click on the Build and run button to execute and output results of the programme.
+    Simply open the source code file question2.c using the CodeBlocks IDE and click on the Build and run button to execute the output results of the programme.
 
     ## Minimum System Requirements
     -Operating System: Windows 10 or 11 (Recommened)
