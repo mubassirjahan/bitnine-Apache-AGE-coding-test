@@ -20,7 +20,7 @@ Below is a quick documentation and thought process explaining the entire program
     - Done
 
 ##Introduction
-    -This program implements the piecewise recurrence using looping, recursion and dynamic programming.
+This program implements the piecewise recurrence using looping, recursion and dynamic programming.
 
 
 ## Differences (advantages, disadvantages)
