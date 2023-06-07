@@ -53,7 +53,7 @@ write the function(s).
 ## Troubleshooting
 If you encounter any issues compiling or running the program, please refer to the error messages generated in the IDE terminal for assistance. Make sure that all required dependencies are installed and that the commands are being properly formatted from IDE.     
 
-For further assistance feel free to email : mubassir.jahan@outlook.com
+For further assistance feel free to email : jmubassir@gmail.com
 
 ## Contributors
 - Mubassir Jahan (https://github.com/mubassirjahan)
