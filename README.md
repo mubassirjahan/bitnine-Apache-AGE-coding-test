@@ -46,3 +46,16 @@ fibo : 2
 F(n) = F(n-3) + F(n -2) where F(0) = 0, F(1) = 1, and F(2) = 2.
 Assume that n will be less than or equal to the maximum integer value and non-negative. You only need to
 write the function(s).
+
+
+## Troubleshooting
+
+If you encounter any issues compiling or running the program, please refer to the error messages generated in the IDE terminal for assistance. Make sure that all required dependencies are installed and that the commands are being properly formatted from IDE.     
+
+For further assistance feel free to email : mubassir.jahan@outlook.com
+
+## Contributors
+
+- Mubassir Jahan (https://github.com/mubassirjahan)
+- copyright @2023
+
