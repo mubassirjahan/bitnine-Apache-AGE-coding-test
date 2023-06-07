@@ -15,12 +15,12 @@ Below is a quick documentation and thought process explaining the entire program
 
     ## Steps
     - Install codeblocks IDE
-    - open the file question2.c
+    - open the file question2.c using the IDE
     - click build and run (A console window will open and it'll print the output)
     - Done
 
 ##Introduction
-    This program implements the piecewise recurrence using looping, recursion and dynamic programming.
+    -This program implements the piecewise recurrence using looping, recursion and dynamic programming.
 
     
 ## Troubleshooting
@@ -32,5 +32,5 @@ For further assistance feel free to email : mubassir.jahan@outlook.com
 ## Contributors
 
 - Mubassir Jahan (https://github.com/mubassirjahan)
-  copyright @2023
+- copyright @2023
 
